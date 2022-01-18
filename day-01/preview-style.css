@@ -1,0 +1,18 @@
+p {
+    display: inline;
+}
+
+span {
+    display: block;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.tall {
+    display: inline-block;
+    height: 200px;
+    color: white;
+    background-color: blue;
+}

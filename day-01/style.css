@@ -1,0 +1,36 @@
+p {
+    color: white;
+    background-color: red;
+    padding: 8px;
+    margin: 8px;
+    font-family: "Gigi Regular";
+}
+
+span {
+    background-color: blue;
+}
+
+/* selector */
+img#sana {
+    width: 100px;
+}
+
+img#ng {
+    width: 300px;
+}
+
+.w-500 {
+    width: 500px;
+}
+
+.h-300 {
+    height: 300px;
+}
+
+.h-500 {
+    height: 500px;
+}
+
+.초록색 {
+    color: green;
+}
