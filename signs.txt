@@ -1,0 +1,18 @@
+: = 콜론 colon
+; = 세미콜론 semicolon
+" = 큰따옴표
+' = 작은따옴표
+[ ] = 대괄호
+{ } = 중괄호
+( ) = 소괄호
+| = 바 or
+& = 앤드기호, 앰퍼샌드 ampersand
+'=' = assign equal 등호
+_ = underbar underscore
+- = 하이픈, 대시, 다시
+` = backtick
+~ = 물결표시 tilde
+@ = 골뱅이 at
+# = sharp pound
+/ = 슬래시
+\ = 백슬래시
